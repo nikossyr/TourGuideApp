@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#1E88E5</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#1565C0</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#039BE5</color>
+
+    <!-- Background color for the MUSEUMS category -->
+    <color name="category_museums">#BDBDBD</color>
+
+    <!-- Background color for the RESTAURANTS members category -->
+    <color name="category_restaurants">#64B5F6</color>
+
+    <!-- Background color for the CAFES category -->
+    <color name="category_cafes">#8D6E63</color>
+
+    <!-- Background color for the ACTIVITIES category -->
+    <color name="category_activities">#039BE5</color>
+
+    <!-- Tab Indicator Color and Text Color for selected Tab in TabLayout-->
+    <color name="colorAccent">#FFF</color>
+
+    <!-- Text color for not selected Tabs in TabLayout -->
+    <color name="tabTextColor">#A8A19E</color>
+</resources>

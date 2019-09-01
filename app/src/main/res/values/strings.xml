@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- Main activity title -->
+    <string name="main_activity_title">Visit Athens</string>
+
+    <!-- Category name for MUSEUMS in the TabLayout [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for RESTAURANTS in the TabLayout [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Taverns</string>
+
+    <!-- Category name for Cafés in the TabLayout [CHAR LIMIT=20] -->
+    <string name="category_cafes">Cafés</string>
+
+    <!-- Category name for Activities in the TabLayout [CHAR LIMIT=20] -->
+    <string name="category_activities">Activities</string>
+
+    <!-- Label for working hours in list_item [CHAR LIMIT=20] -->
+    <string name="working_hours_label">Open</string>
+
+    <!-- ActivitiesFragment Strings used in Attraction object -->
+    <string name="attraction_athens_by_bike_name" translatable="false">Athens by Bike</string>
+    <string name="attraction_athens_by_bike_hours">9:00 &#8211; 18:00</string>
+    <string name="attraction_athens_by_bike_phone">2130420724</string>
+
+    <string name="attraction_walks_tour_company_name" translatable="false">Athens Walks Tour Company</string>
+    <string name="attraction_walks_tour_company_hours">9:00 &#8211; 22:00</string>
+    <string name="attraction_walks_tour_company_phone">6936742047</string>
+
+    <string name="attraction_sailing_name" translatable="false">Sailing Athens</string>
+    <string name="attraction_sailing_hours">12:00 &#8211; 24:00</string>
+    <string name="attraction_sailing_phone">2155259494</string>
+
+    <string name="attraction_athens_insiders_name" translatable="false">Athens Insiders</string>
+    <string name="attraction_athens_insiders_hours">9:00 &#8211; 19:00</string>
+    <string name="attraction_athens_insiders_phone">2117909879</string>
+
+    <string name="attraction_blue_water_sailing_name" translatable="false">Blue Water Sailing Greece</string>
+    <string name="attraction_blue_water_sailing_hours">12:00 &#8211; 24:00</string>
+    <string name="attraction_blue_water_sailing_phone">6933218800</string>
+
+    <string name="attraction_extreme_divers_name" translatable="false">Extreme Divers</string>
+    <string name="attraction_extreme_divers_hours">9:00 &#8211; 15:00</string>
+    <string name="attraction_extreme_divers_phone">2109730929</string>
+
+    <string name="attraction_skydive_athens_name" translatable="false">Skydive Athens</string>
+    <string name="attraction_skydive_athens_hours">10:00 &#8211; 20:00</string>
+    <string name="attraction_skydive_athens_phone">6970300222</string>
+
+    <!-- CafesFragment Strings used in Attraction object -->
+    <string name="attraction_cafe_boheme_name" translatable="false">Cafe Boheme</string>
+    <string name="attraction_cafe_boheme_hours">10:00 &#8211; 3:00</string>
+    <string name="attraction_cafe_boheme_phone">2103608018</string>
+
+    <string name="attraction_spiti_mas_name" translatable="false">Spiti Mas</string>
+    <string name="attraction_spiti_mas_hours">9:00 &#8211; 16:00</string>
+    <string name="attraction_spiti_mas_phone">2103314751</string>
+
+    <string name="attraction_harvest_coffee_name" translatable="false">Harvest Coffee</string>
+    <string name="attraction_harvest_coffee_hours">9:00 &#8211; 24:00</string>
+    <string name="attraction_harvest_coffee_phone">2130252284</string>
+
+    <string name="attraction_cafe_bar_name" translatable="false">Cafe-Bar 67</string>
+    <string name="attraction_cafe_bar_hours">9:00 &#8211; 19:00</string>
+    <string name="attraction_cafe_bar_phone">2103801771</string>
+
+    <string name="attraction_azzuro_cafe_name" translatable="false">Azzurro Cafe</string>
+    <string name="attraction_azzuro_cafe_hours">9:00 &#8211; 24:00</string>
+    <string name="attraction_azzuro_cafe_phone">2103227227</string>
+
+    <string name="attraction_cafe_plaka_name" translatable="false">Καφέ Πλάκα</string>
+    <string name="attraction_cafe_plaka_hours">9:00 &#8211; 24:00</string>
+    <string name="attraction_cafe_plaka_phone">2103220388</string>
+
+    <!-- MuseumsFragment Strings used in Attraction object -->
+    <string name="attraction_museum_ancient_agora_name" translatable="false">Museum of the Ancient Agora</string>
+    <string name="attraction_museum_ancient_agora_hours">8:00 &#8211; 20:00</string>
+    <string name="attraction_museum_ancient_agora_phone">2103608018</string>
+
+    <string name="attraction_national_archeological_museum_name" translatable="false">National Archaeological Museum</string>
+    <string name="attraction_national_archeological_museum_hours">8:00 &#8211; 20:00</string>
+    <string name="attraction_national_archeological_museum_phone">2103314751</string>
+
+    <string name="attraction_school_life_and_education_name" translatable="false">School Life and Education Museum</string>
+    <string name="attraction_school_life_and_education_hours">10:00 &#8211; 20:00</string>
+    <string name="attraction_school_life_and_education_phone">2130252284</string>
+
+    <string name="attraction_museum_cycladic_art_name" translatable="false">Museum of Cycladic Art</string>
+    <string name="attraction_museum_cycladic_art_hours">9:00 &#8211; 20:00</string>
+    <string name="attraction_museum_cycladic_art_phone">2103801771</string>
+
+    <string name="attraction_cultural_center_name" translatable="false">Cultural Centre Hellenic Cosmos</string>
+    <string name="attraction_cultural_center_hours">9:00 &#8211; 20:00</string>
+    <string name="attraction_cultural_center_phone">2103227227</string>
+
+    <string name="attraction_digital_museum_plato_name" translatable="false">Digital Museum Plato</string>
+    <string name="attraction_digital_museum_plato_hours">8:00 &#8211; 20:00</string>
+    <string name="attraction_digital_museum_plato_phone">2103220388</string>
+
+    <!-- RestaurantsFragment Strings used in Attraction object -->
+    <string name="attraction_greek_stories_name" translatable="false">Greek Stories</string>
+    <string name="attraction_greek_stories_hours">12:00 &#8211; 24:00</string>
+    <string name="attraction_greek_stories_phone">2103608018</string>
+
+    <string name="attraction_montakiou_name" translatable="false">Μόντακιου</string>
+    <string name="attraction_montakiou_hours">13:00 &#8211; 24:00</string>
+    <string name="attraction_montakiou_phone">2103314751</string>
+
+    <string name="attraction_pente_fi_name" translatable="false">5Φ</string>
+    <string name="attraction_pente_fi_hours">13:00 &#8211; 24:00</string>
+    <string name="attraction_pente_fi_phone">2130252284</string>
+
+    <string name="attraction_oroscopo_name" translatable="false">Oroscopo</string>
+    <string name="attraction_oroscopo_hours">12:00 &#8211; 20:00</string>
+    <string name="attraction_oroscopo_phone">2103801771</string>
+
+</resources>
